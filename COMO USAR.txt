@@ -1,0 +1,3 @@
+Abra o config.php e insira o token e chat id do seu bot telegram, se voce nunca criou um bot pesquise no youtube e é isso, os bicos ficam salvos em Logs, e são enviados no seu telegram
+
+@Salvadorkkj
